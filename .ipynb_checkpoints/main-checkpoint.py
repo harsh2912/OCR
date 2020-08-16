@@ -1,6 +1,5 @@
-# %env GOOGLE_APPLICATION_CREDENTIALS=/home/kakarot/Swiggy/ocr_cred.json
+
 import os
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = '/home/kakarot/Swiggy/ocr_cred.json'
 
 
 
